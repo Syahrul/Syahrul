@@ -12,7 +12,12 @@
 ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 
-![HTB](https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg)
+<div style="background-color: #0b121f;">
+  ![HTB](https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg)
+</div>
 
-Currently investing a lot of my free time on [HackTheBox Academy](https://referral.hackthebox.com/mzw1mTZ), 
-- ![HTB Certified Penetration Testing Specialist](https://www.credly.com/badges/5dcd3ed3-3826-47e7-a0da-5751f4c633c9/public_url)
+Currently I'm investing a lot of my free time on ![HackTheBox Academy](https://referral.hackthebox.com/mzw1mTZ), 
+- [HTB Certified Penetration Testing Specialist](https://www.credly.com/badges/5dcd3ed3-3826-47e7-a0da-5751f4c633c9/public_url) 
+
+If you have a team, I would like to learn from you! [Invite me please](https://app.hackthebox.com/profile/28559)! ![https://github.githubassets.com/images/icons/emoji/unicode/1f48b.png?v8](https://github.githubassets.com/images/icons/emoji/unicode/1f48b.png?v8)
+
